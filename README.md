@@ -1,5 +1,7 @@
 # Artists changing style
 
+*This is a set of artists and photographers with examples to get a similar result in Stable Diffusion by adding style.*
+
 ### Agnes Martin
 
 ```Prompt: canvas, detailed by Agnes Martin``` for BG
@@ -178,6 +180,9 @@
 
 
 [home]: http://dotoca.net
+
 [paypal]: https://paypal.me/xvoland
+
 [youtube]: https://youtube.com/xvoland
+
 [instagram]: https://www.instagram.com/xvoland/
