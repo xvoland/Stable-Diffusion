@@ -167,9 +167,13 @@
 ## Other
 
 ```amigurumi``` - get everything knitted
+
 ```baroque + rococo style``` - good for streets
+
 ```dadism + surrealism style``` - good for portrets
+
 ```gothic + art deco``` - good for portrets
+
 ```abstract expressionism + minimalism``` - decor of the room and other
 
 
