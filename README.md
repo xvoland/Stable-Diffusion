@@ -179,7 +179,7 @@
 
 
 ## License
-&copy; 2023, [Vitalii Tereshchuk][home]
+&copy; 2023, [Vitalii Tereshchuk][home] | [Youtube][youtube]
 <br />
 
 
@@ -187,6 +187,6 @@
 
 [paypal]: https://paypal.me/xvoland
 
-[youtube]: https://youtube.com/xvoland
+[youtube]: https://youtube.com/@xvoland
 
 [instagram]: https://www.instagram.com/xvoland/
