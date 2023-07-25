@@ -159,9 +159,9 @@
 
 
 
-### Patrick Dougherty
-![Screenshot](images/Patrick-Dougherty01.jpg)
+### Erin Babnik
 
+![Screenshot](images/by-Erin-Babnik01.jpg) ![Screenshot](images/by-Erin-Babnik02.jpg)
 
 
 ## Other
