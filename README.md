@@ -165,7 +165,8 @@
 
 ### by Erin Babnik
 
-![Screenshot](images/by-Erin-Babnik01.png)
+![Screenshot](images/by-Erin-Babnik01.jpg =256x256)
+![Screenshot](images/by-Erin-Babnik02.jpg =256x256)
 
 ## Other
 
