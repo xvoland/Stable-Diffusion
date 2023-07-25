@@ -176,6 +176,13 @@ HDR Photo
 
 ![Screenshot](images/Ali-Erturk01.jpg) ![Screenshot](images/Ali-Erturk02.jpg)
 
+
+### Jimmy Chin
+```Extreme photos```
+
+![Screenshot](images/Jimmy-Chin01.jpg) ![Screenshot](images/Jimmy-Chin02.jpg) ![Screenshot](images/Jimmy-Chin03.jpg)
+
+
 ## Other
 
 ```amigurumi``` - get everything knitted
