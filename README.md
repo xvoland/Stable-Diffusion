@@ -178,7 +178,15 @@
 
 
 
+## Midjourney
+Prompt: ```(foggy background, epic realistic, intricate details, hyperdetailed, cinematic, muted colors:1.3), (8k, best quality, masterpiece, symmetry, ultra highres:1.2)```
+
+```RGB(15, 19, 22)``` for background
+
+
+
 ## License
+
 &copy; 2023, [Vitalii Tereshchuk][home] | [Youtube][youtube]
 <br />
 
