@@ -169,6 +169,13 @@
 
 ![Screenshot](images/by-Erin-Babnik01.jpg) ![Screenshot](images/by-Erin-Babnik02.jpg)
 
+
+### Ali Erturk
+
+HDR Photo
+
+![Screenshot](images/Ali-Erturk01.jpg) ![Screenshot](images/Ali-Erturk02.jpg)
+
 ## Other
 
 ```amigurumi``` - get everything knitted
