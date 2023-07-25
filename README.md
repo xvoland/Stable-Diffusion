@@ -159,10 +159,16 @@
 
 
 
-### Erin Babnik
+### Patrick Dougherty
+![Screenshot](images/Patrick-Dougherty01.jpg)
 
-![Screenshot](images/by-Erin-Babnik01.jpg) ![Screenshot](images/by-Erin-Babnik02.jpg)
 
+### by Erin Babnik
+
+```by Erin Babnik```
+
+![Screenshot](images/by-Erin-Babnik01.jpg =256x256)
+![Screenshot](images/by-Erin-Babnik02.jpg =256x256)
 
 ## Other
 
@@ -175,6 +181,12 @@
 ```gothic + art deco``` - good for portrets
 
 ```abstract expressionism + minimalism``` - decor of the room and other
+
+## Midjourney
+
+Prompt: ```(foggy background, epic realistic, intricate details, hyperdetailed, cinematic, muted colors:1.3), (8k, best quality, masterpiece, symmetry, ultra highres:1.2)```
+
+```RGB(15, 19, 22)``` for background
 
 
 
