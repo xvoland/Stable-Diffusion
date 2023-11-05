@@ -228,6 +228,13 @@ J Scott Campbell style, art by Johan Potma, potma style, <lora:Johan_Potma_Art_S
 ```
 ![J Scott Campbell style, art by Johan Potma](images/J_Scott_Campbell_Johan_Potma.jpg)![Screenshot](images/J_Scott_Campbell_Johan_Potma.jpg) 
 
+
+## 3D 
+
+Prompt: 3D isometric rendering of **[Your monument]**, with a next-gen video game quality. The monument is highlighted against a pure white background, intricate details and realistic textures.
+
+![3D isometric](images/3d_isometric.jpg)
+
 ## License
 
 &copy; 2023, [Vitalii Tereshchuk][home] | [Youtube][youtube]
