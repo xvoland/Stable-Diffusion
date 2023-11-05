@@ -176,14 +176,33 @@ HDR Photo
 
 ![Screenshot](images/Ali-Erturk01.jpg) ![Screenshot](images/Ali-Erturk02.jpg)
 
-
 ### Jimmy Chin
+
 ```Extreme photos```
 
 ![Screenshot](images/Jimmy-Chin01.jpg) ![Screenshot](images/Jimmy-Chin02.jpg) ![Screenshot](images/Jimmy-Chin03.jpg)
 
 
+### art by J.C. Leyendecker
+
+```
+European airline stewardess, sexy, vintage, 
+art by J.C. Leyendecker
+```
+
+![Screenshot](images/J_Scott_Campbell_Johan_Potma.jpg)
+
+### Aesthetic design
+
+```
+(2d,line art,monochrome,flat color,white tone,Hatching, black and white:1.5), masterpiece, aesthetic, extremely beautiful, realistic, A room in a modern European condominium BREAK
+```
+
+![Screenshot](images/aesthetic_design01.jpg)![Screenshot](images/aesthetic_design02.jpg) 
+
 ## Other
+
+```European woman, (floral embroidery, floral print, pointing), studio photo``` - flowers
 
 ```amigurumi``` - get everything knitted
 
@@ -202,6 +221,12 @@ Prompt: ```(foggy background, epic realistic, intricate details, hyperdetailed, 
 ```RGB(15, 19, 22)``` for background
 
 
+## Art
+
+```
+J Scott Campbell style, art by Johan Potma, potma style, <lora:Johan_Potma_Art_Style_SDXL:2>
+```
+![J Scott Campbell style, art by Johan Potma](images/J_Scott_Campbell_Johan_Potma.jpg)![Screenshot](images/J_Scott_Campbell_Johan_Potma.jpg) 
 
 ## License
 
