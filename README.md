@@ -236,6 +236,14 @@ J Scott Campbell style, art by Johan Potma, potma style, <lora:Johan_Potma_Art_S
 ![3D isometric](images/3d_isometric.jpg)
 
 
+## Pig Art
+
+```
+full body portait, Oil on canvas, charcoal, pastels, soft impressionistic brush strokes, Edgar Degas, Mary Blair, Mark Ryden, Ray Caesar, Fragonard. surreal, fantastical, Insanely detailed colorful portrait adorable chubby gentleman, boar face, wild boar tusks, pig hands, curls, sharp eyes, exquisite haunted mansion interior. Deep rich colors.<lora:xl_more_art-full_v1:0.5>
+```
+
+![Pig Art](images/pig01.jpg)![Pig Art](images/pig02.jpg)![Pig Art](images/pig03.jpg)![Pig Art](images/pig04.jpg)![Pig Art](images/pig05.jpg)
+
 ## License
 
 &copy; 2023, [Vitalii Tereshchuk][home] | [Youtube][youtube]
